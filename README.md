@@ -27,12 +27,12 @@ During this project I created a MySQL database to store and access data that was
 
 ## Results
 
-![sample image](fig3.png)
+![sample image](Data/movie_database.png)
 
 > Created an Entity Relationship Diagram for the database for easy visualization.
 
 #### Plotly 3d chart highlightly target class within dataset
-![sample image](fig4.png)
+![sample image](Data/genre.png)
 
 > Visualizing the findings from a statistical test regarding movie genre and revenue generation.
 
