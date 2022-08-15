@@ -32,7 +32,7 @@ During this project I created a MySQL database to store and access data that was
 > Created an Entity Relationship Diagram for the database for easy visualization.
 
 
-![sample image](Data/genre.png)
+<img src='Data/genre_chart.png' width='450'>
 
 > Visualizing the findings from a statistical test regarding movie genre and revenue generation.
 
